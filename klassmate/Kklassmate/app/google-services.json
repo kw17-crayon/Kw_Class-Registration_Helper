@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "322674540146",
+    "firebase_url": "https://kklassmate.firebaseio.com",
+    "project_id": "kklassmate",
+    "storage_bucket": "kklassmate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322674540146:android:b8f24c2eb0c7dfd1adcceb",
+        "android_client_info": {
+          "package_name": "com.example.kklassmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322674540146-1f100qj71q0hvuhsh890f4s3e7utoi31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kklassmate",
+            "certificate_hash": "cf666d74fc228649d6d879e8eded2a7eda5d5389"
+          }
+        },
+        {
+          "client_id": "322674540146-ddenq1hcn0ftp6tl62cvkc9g9ehar56v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBizZJEn987rvv7NGAvQyiskjpENEAL5mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322674540146-ddenq1hcn0ftp6tl62cvkc9g9ehar56v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
